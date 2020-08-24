@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/VaJa/source/repos/TypicalSnake_Mono/TypicalSnake_Mono/Content/snake_lose.png","C:/Users/VaJa/source/repos/TypicalSnake_Mono/TypicalSnake_Mono/Content/bin/DesktopGL/snake_lose.xnb","TextureProcessor","Texture2DContent",4572,640085,0,3590205
+"C:/Users/VaJa/source/repos/TypicalSnake_Mono/TypicalSnake_Mono/Content/snake_tiles.png","C:/Users/VaJa/source/repos/TypicalSnake_Mono/TypicalSnake_Mono/Content/bin/DesktopGL/snake_tiles.xnb","TextureProcessor","Texture2DContent",1764,50085,0,0080004
+"C:/Users/VaJa/source/repos/TypicalSnake_Mono/TypicalSnake_Mono/Content/snake_title.png","C:/Users/VaJa/source/repos/TypicalSnake_Mono/TypicalSnake_Mono/Content/bin/DesktopGL/snake_title.xnb","TextureProcessor","Texture2DContent",4469,640085,0,1190068
