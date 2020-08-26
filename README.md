@@ -1,2 +1,2 @@
 # TypicalSnake-Mono
-Made using MonoDevelop
+Made using MonoGame
